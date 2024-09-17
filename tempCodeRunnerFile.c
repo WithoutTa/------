@@ -1,0 +1,1 @@
+// Convert numeric character to integer
